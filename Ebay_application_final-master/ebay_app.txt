@@ -1,0 +1,15 @@
+*** Settings ***
+Variables         Testdata.yaml
+Library           Testcase.ebay_shopping_001
+Library           Collections
+Library           OperatingSystem
+
+
+***Test Cases***
+
+ebay_shopping_001
+    [Documentation]     Testcase to Search Item and Validate the Product details.
+    testcase001_initialize    Ebayapplication
+    testcase_setup
+    testcase_test
+    testcase_cleanup

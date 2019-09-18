@@ -1,0 +1,16 @@
+USER_CREDENTIALS:
+    user : "aravindarjun48@gmail.com"
+    pwd  : "aravindarjun10$"
+
+APP_TYPE:
+    APP : "ebay"
+
+PRODUCT:
+    NAME : "Moto G5 plus"
+
+DESIRED_CAPS:
+    platformName : 'Android'
+    platformVersion : '5.1'
+    deviceName : 'emulator-5554'
+    appPackage : 'com.ebay.mobile'
+    appActivity : 'com.ebay.mobile.activities.MainActivity'

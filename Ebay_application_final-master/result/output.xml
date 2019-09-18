@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20180510 17:27:08.860" generator="Robot 3.0.4 (Python 2.7.13 on win32)">
+<suite source="C:\Users\aravi\Ebayapplication\ebay_app.txt" id="s1" name="Ebay App">
+<test id="s1-t1" name="ebay_shopping_001">
+<kw name="Testcase001 Initialize" library="Testcase.ebay_shopping_001">
+<doc>:Step 1 : Function called from Suite_1.text file with Argument Ebayapplication</doc>
+<arguments>
+<arg>Ebayapplication</arg>
+</arguments>
+<status status="PASS" endtime="20180510 17:27:08.987" starttime="20180510 17:27:08.986"></status>
+</kw>
+<kw name="Testcase Setup" library="Testcase.ebay_shopping_001">
+<doc>Call Setup method to initialise appium Driver.</doc>
+<msg timestamp="20180510 17:27:13.037" html="yes" level="INFO">	 &lt;b&gt;&lt;h3&gt;APPIUM DRIVER INITIALIZED AND EBAY APP OPENED SUCCESSFULLY : &lt;b style="color:green"&gt;PASS&lt;/b&gt; &lt;/h3&gt;&lt;/b&gt;</msg>
+<msg timestamp="20180510 17:27:13.038" level="INFO">&lt;utils.driver.appiumdriver instance at 0x059F1A80&gt;</msg>
+<status status="PASS" endtime="20180510 17:27:13.038" starttime="20180510 17:27:08.988"></status>
+</kw>
+<kw name="Testcase Test" library="Testcase.ebay_shopping_001">
+<doc>Call test method to start the Script execution.</doc>
+<msg timestamp="20180510 17:28:17.338" html="yes" level="INFO">	 &lt;b&gt;&lt;h3&gt;USER LOGIN COMPLETED SUCCESSFULLY : &lt;b style="color:green"&gt;PASS&lt;/b&gt; &lt;/h3&gt;&lt;/b&gt;</msg>
+<msg timestamp="20180510 17:28:54.095" html="yes" level="INFO">	 &lt;b&gt;&lt;h3&gt;PRODUCT SEARCH AND PURCHASE COMPLETED SUCCESSFULLY : &lt;b style="color:green"&gt;PASS&lt;/b&gt; &lt;/h3&gt;&lt;/b&gt;</msg>
+<msg timestamp="20180510 17:29:35.831" html="yes" level="INFO">	 &lt;b&gt;&lt;h3&gt;APP LOG OUT COMPLETED SUCCESSFULLY : &lt;b style="color:green"&gt;PASS&lt;/b&gt; &lt;/h3&gt;&lt;/b&gt;</msg>
+<msg timestamp="20180510 17:29:35.832" level="INFO">LOG IN TO EBAY APPLICATION IS IN PROGRESS..
+Selecting XPath: //*[contains(@resource-id,"com.ebay.mobile:id/button_sign_in")]
+&lt;selenium.webdriver.remote.webelement.WebElement (session="f7139dde-0b56-4f0e-9009-be9832370aa3", element="1")&gt;
+Selecting XPath: //*[contains(@resource-id,"com.ebay.mobile:id/edit_text_username")]
+Selecting XPath: //*[contains(@resource-id,"com.ebay.mobile:id/edit_text_password")]
+Selecting XPath: //*[contains(@resource-id,"com.ebay.mobile:id/button_sign_in")]
+Selecting XPath: //*[contains(@resource-id,"com.ebay.mobile:id/button_google_deny")]
+Logged in successfully
+Login completed successfully &lt;b style="color:green"&gt;PASS&lt;/b&gt;
+&lt;selenium.webdriver.remote.webelement.WebElement (session="f7139dde-0b56-4f0e-9009-be9832370aa3", element="6")&gt;
+Selecting XPath: //*[contains(@resource-id,"popup_container")]
+Selecting XPath: //*[contains(@resource-id,"button_bin")]
+Product purchased successfully
+Product searched Successfully &lt;b style="color:green"&gt;PASS&lt;/b&gt;
+LOG OUT APP IN PROGRESS....
+Selecting XPath: //*[contains(@resource-id,"com.ebay.mobile:id/home")]
+Selecting XPath: //*[contains(@resource-id,"com.ebay.mobile:id/image_user_profile")]
+Selecting XPath: //*[contains(@text,"Sign out")]
+Selecting XPath: //*[contains(@text,"OK")]
+Logout successful
+App logged out successfully &lt;b style="color:green"&gt;PASS&lt;/b&gt;</msg>
+<status status="PASS" endtime="20180510 17:29:35.832" starttime="20180510 17:27:13.040"></status>
+</kw>
+<kw name="Testcase Cleanup" library="Testcase.ebay_shopping_001">
+<doc>Close appium driver</doc>
+<status status="PASS" endtime="20180510 17:29:35.836" starttime="20180510 17:29:35.835"></status>
+</kw>
+<doc>Testcase to Search Item and Validate the Product details.</doc>
+<status status="PASS" endtime="20180510 17:29:35.836" critical="yes" starttime="20180510 17:27:08.985"></status>
+</test>
+<status status="PASS" endtime="20180510 17:29:35.838" starttime="20180510 17:27:08.866"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="1">Critical Tests</stat>
+<stat fail="0" pass="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="Ebay App" pass="1">Ebay App</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

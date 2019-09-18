@@ -1,0 +1,7 @@
+REQUIREMENTS:
+    Python 2.7
+    Appium driver 1.8.0
+    Android studio - Virtual device (version 5.1)
+    Install pybot
+    Install Ebay app apk in Emulator
+    Install Robot Framework
