@@ -1,0 +1,39 @@
+id,organization_id,first_name,last_name,email,status,full_name,employee_id,created_at,updated_at
+4022412003,4000715003,Kevin,Novick,kevin@letsvee.com,active,Kevin Novick,,2020-01-16 19:11:27.125175,2021-04-11 01:15:17.682745
+4026858003,4000715003,Shari,Novick,shari@letsvee.com,active,Shari Novick,,2020-01-23 17:47:22.62523,2021-04-09 19:47:40.291353
+4043247003,4000715003,Kian,Betancourt,kianbetancourt@letsvee.com,active,Kian Betancourt,,2020-03-06 22:02:16.483589,2021-04-09 19:31:10.317776
+4026856003,4000715003,Jessica,Sciorra,jessica@letsvee.com,active,Jessica Sciorra,,2020-01-23 17:43:27.272238,2021-04-11 00:48:33.203329
+4286707003,4000715003,Jingyan,Qiao,jingyan.qiao@letsvee.com,active,Jingyan Qiao,,2021-02-04 03:52:52.375676,2021-04-07 15:00:37.343981
+4286708003,4000715003,Tony,Liu,tony.liu@letsvee.com,active,Tony Liu,,2021-02-04 03:52:52.933217,2021-04-06 19:23:07.084447
+4286710003,4000715003,DIVYANK,SINGH,divyank.singh@letsvee.com,active,DIVYANK SINGH,,2021-02-04 03:56:18.939207,2021-04-07 14:40:56.649645
+4286709003,4000715003,Shi,Feng,shi.feng@letsvee.com,active,Shi Feng,,2021-02-04 03:52:53.289833,2021-04-06 02:43:20.995601
+4267576003,4000715003,Kajal,Amarnani,kajal.amarnani@letsvee.com,active,Kajal Amarnani,,2021-01-11 17:47:25.515207,2021-04-07 18:38:29.446959
+4286711003,4000715003,Aravind Kumar,Sankara Narayanan,aravind.narayanan@letsvee.com,active,Aravind Kumar Sankara Narayanan,,2021-02-04 03:56:19.315315,2021-03-30 15:08:25.889758
+4198842003,4000715003,Rajkumar,Vijayakumar,raj.vijayakumar@letsvee.com,active,Rajkumar Vijayakumar,,2020-10-30 23:41:45.62451,2021-03-11 17:33:55.538743
+4319637003,4000715003,Menaka,Gangwani,menaka.gangwani@letsvee.com,active,Menaka Gangwani,,2021-03-06 13:51:53.941113,2021-03-09 22:12:05.401108
+4171868003,4000715003,Qi,Leng,qi.leng@letsvee.com,disabled,Qi Leng,,2020-09-23 15:23:05.93885,2021-02-04 03:53:36.229138
+4133913003,4000715003,Ellin,Fan,xiuqi.ellin.fan@letsvee.com,disabled,Ellin Fan,,2020-07-29 19:55:12.778171,2021-02-04 03:53:06.69553
+4267584003,4000715003,,,gabriela.wyffels@letsvee.com,active, ,,2021-01-11 17:54:41.682353,2021-01-11 17:54:41.79476
+4026857003,4000715003,Sahara,Contaste,sahara@letsvee.com,disabled,Sahara Contaste,,2020-01-23 17:46:40.57417,2021-02-04 03:53:49.653439
+4176780003,4000715003,Carey,Taylor,carey.taylor@letsvee.com,disabled,Carey Taylor,,2020-10-07 12:05:42.069493,2021-02-04 03:53:16.210744
+4198843003,4000715003,suraj,kunwar,suraj.kunwar@letsvee.com,active,suraj kunwar,,2020-10-30 23:41:46.148017,2021-01-20 17:42:11.313629
+4176779003,4000715003,Jiaying,Du,jiaying.du@letsvee.com,active,Jiaying Du,,2020-10-07 12:03:23.683883,2021-01-28 16:52:23.484422
+4090007003,4000715003,Ashley,Brown,ashley@letsvee.com,active,Ashley Brown,,2020-05-26 17:02:11.605303,2021-01-03 14:26:39.170569
+4194414003,4000715003,Audrey,Zhang,audrey.zhang@letsvee.com,active,Audrey Zhang,,2020-10-29 18:45:58.2331,2021-02-12 22:01:18.509985
+4182240003,4000715003,,,maria@letsvee.com,active, ,,2020-10-15 01:40:39.805847,2020-10-15 01:40:40.029922
+4090008003,4000715003,Shelby,Lipschuetz,shelby@letsvee.com,active,Shelby Lipschuetz,,2020-05-26 17:02:12.072763,2020-08-31 23:16:59.366333
+4022411003,4000715003,Greenhouse,Customer Success Admin,scrubbed_email_frqwfxbw2f52zo0gqnjidw@example.com,disabled,Greenhouse Customer Success Admin,,2020-01-16 19:06:09.965439,2020-08-24 17:19:57.095787
+4133912003,4000715003,Siyuan,Feng,siyuan.nina.feng@letsvee.com,disabled,Siyuan Feng,,2020-07-29 19:55:12.286757,2020-10-07 12:01:38.776596
+4068179003,4000715003,Catherine,Jackson,cj@letsvee.com,disabled,Catherine Jackson,,2020-04-29 13:50:21.048709,2020-08-04 15:00:36.180491
+4133914003,4000715003,Michael,Smith,mike.smith@letsvee.com,disabled,Michael Smith,,2020-07-29 19:55:13.217418,2020-10-07 12:01:51.50326
+4091422003,4000715003,Erika,Curry,erika@letsvee.com,active,Erika Curry,,2020-05-29 23:48:20.72244,2020-06-02 22:01:15.745229
+4090032003,4000715003,Veera,Wren,veera@letsvee.com,active,Veera Wren,,2020-05-26 18:59:21.86682,2020-06-12 14:10:31.528293
+4050237003,4000715003,,,melissakraft@letsvee.com,disabled, ,,2020-03-23 13:55:03.635871,2020-04-27 18:10:54.576185
+4041461003,4000715003,Bridget,O'Neill,bridget@letsvee.com,disabled,Bridget O'Neill,,2020-03-02 03:50:27.069391,2020-04-29 13:54:01.058411
+4026860003,4000715003,Peter,Boon,peter@letsvee.com,disabled,Peter Boon,,2020-01-23 17:47:59.328582,2020-04-29 13:55:30.973743
+4041460003,4000715003,Benjamin,Finkel,ben@letsvee.com,disabled,Benjamin Finkel,,2020-03-02 03:50:26.755996,2020-04-29 13:53:49.438626
+4050238003,4000715003,,,ilyassahad@letsvee.com,disabled, ,,2020-03-23 13:55:18.341697,2020-04-27 18:10:54.596604
+4050236003,4000715003,,,olesteen@letsvee.com,disabled, ,,2020-03-23 13:54:42.784883,2020-04-27 18:10:54.555581
+4046363003,4000715003,Recruiting,Coordinator,recruitingcoordinator@letsvee.com,active,Recruiting Coordinator,,2020-03-13 13:17:51.256003,2020-05-26 18:04:32.150242
+4046307003,4000715003,,,kian@letsvee.com,disabled, ,,2020-03-12 21:49:02.658769,2020-04-27 18:10:54.513194
+4031096003,4000715003,Vee Tech Support,Vee Tech Support,technology@letsvee.com,active,Vee Tech Support Vee Tech Support,,2020-02-03 19:30:53.662268,2020-04-27 18:10:54.426645
